@@ -1,0 +1,15 @@
+{
+  "name": "nclean",
+  "module": "index.ts",
+  "type": "module",
+  "bin": {
+    "nclean": "index.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/node": "20"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
